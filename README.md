@@ -1,1 +1,1 @@
-# Meu primeiro (segundo) projeto o git com o Eclipse
+# Meu primeiro (segundo) projeto no git com o Eclipse
